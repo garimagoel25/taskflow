@@ -4,24 +4,6 @@ A modern, minimal task manager built with React — organize your work, track pr
 
 ---
 
-## 📸 Screenshots
-
-### 🔐 Login Page
-![Login Screenshot](./screenshots/login.png)
-
-### 🧾 Dashboard - Light Mode
-![Dashboard Light](./screenshots/dashboard-light-mode.png)
-
-### 🌌 Dashboard - Dark Mode
-![Dashboard Dark](./screenshots/dashboard-dark-mode.png)
-
-### 💡 Tasks - Light Mode
-![Tasks Light](./screenshots/tasks-light-mode.png)
-
-### 🌙 Tasks - Dark Mode
-![Tasks Dark](./screenshots/tasks-dark-mode.png)
-
-
 ## ✨ Features
 
 - ✅ **Add, Complete & Delete Tasks**
@@ -55,3 +37,75 @@ A modern, minimal task manager built with React — organize your work, track pr
 ```bash
 git clone https://github.com/garimagoel25/taskflow.git
 cd taskflow
+```
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Start the Development Server
+
+```bash
+npm start
+```
+
+The app will start on: [http://localhost:3000](http://localhost:3000)
+
+It supports live reloading and will automatically reflect your changes.
+
+---
+
+## 🌐 Live Demo
+
+👉 [Click here to try TaskFlow](https://your-deployment-link.netlify.app)
+
+> Replace with your actual Netlify or Vercel link once deployed.
+
+---
+
+## 📁 Project Structure
+
+```
+taskflow/
+├── public/
+├── src/
+│   ├── components/
+│   ├── styles/
+│   └── utils/
+├── screenshots/
+│   ├── login.png
+│   ├── dashboard-light-mode.png
+│   ├── dashboard-dark-mode.png
+│   ├── tasks-light-mode.png
+│   └── tasks-dark-mode.png
+├── README.md
+└── package.json
+```
+
+---
+
+## 🙋‍♀️ Author
+
+Made with ❤️ by **Garima Goel**  
+[GitHub Profile](https://github.com/garimagoel25)
+
+---
+
+## 🖼️ Screenshots
+
+### 🔐 Login Page  
+![Login Screenshot](./screenshots/login.png)
+
+### 🧾 Dashboard - Light Mode  
+![Dashboard Light](./screenshots/dashboard-light-mode.png)
+
+### 🌌 Dashboard - Dark Mode  
+![Dashboard Dark](./screenshots/dashboard-dark-mode.png)
+
+### 💡 Tasks - Light Mode  
+![Tasks Light](./screenshots/tasks-light-mode.png)
+
+### 🌙 Tasks - Dark Mode  
+![Tasks Dark](./screenshots/tasks-dark-mode.png)
