@@ -53,5 +53,5 @@ A modern, minimal task manager built with React — organize your work, track pr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/taskflow.git
+git clone https://github.com/garimagoel25/taskflow.git
 cd taskflow
